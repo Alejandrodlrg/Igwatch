@@ -8,20 +8,16 @@
 </head>
 
 <header>
-		<h1>IG viewer</h1>
+		<h1>Aplicacion desarrollada para testear las vulnerabilidades de las redes sociales </h1>
 </header>
 <body>
 <div id="main">
 		<section id="page1">
 			<div class= "box">
-				<p>Aplicacion desarrollada para testear las vulnerabilidades de las redes sociales </p>
+				<p></p>
 </div>
 			</div>
 		</section> 
 
 <footer>
-<ul> by <a href="https://twitter.com/AlejandroDlrg" target="_blank">Ernesto A. De La Rosa</ul></p>
-</footer>
-</body>
-
-</html>
+<ul> by <a href="https://twitter.com/AlejandroDlrg" target="_blank">Ernesto A. De La Rosa</ul>
