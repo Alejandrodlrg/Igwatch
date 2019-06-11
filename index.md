@@ -19,4 +19,4 @@
 		</section> 
 
 <footer>
-<ul> by <a href="https://twitter.com/AlejandroDlrg" target="_blank">Ernesto A. De La Rosa
+<ul> by <a href="https://twitter.com/AlejandroDlrg " target="_blank">Ernesto A. De La Rosa
