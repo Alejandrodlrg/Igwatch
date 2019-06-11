@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <!-- keep it simple :) !-->
 <html>
 <head>
@@ -20,4 +19,4 @@
 		</section> 
 
 <footer>
-<ul> by <a href="https://twitter.com/AlejandroDlrg" target="_blank">Ernesto A. De La Rosa</ul>
+<ul> by <a href="https://twitter.com/AlejandroDlrg" target="_blank">Ernesto A. De La Rosa
